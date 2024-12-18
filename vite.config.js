@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base:process.env.NODE_env==='production'?'/eslint-test5/':''
+  base:process.env.NODE_ENV==='production'?'/eslint-test5/':''
 });
