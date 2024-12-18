@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base:process.env.NODE_env==='production'?'/gh-my-react-app/':''
+  base:process.env.NODE_env==='production'?'/eslint-test5/':''
 });
