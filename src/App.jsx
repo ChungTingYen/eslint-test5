@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
-  const dd = 123123132;
+  const dd = '';
 
   return (
     <>
